@@ -1,0 +1,2 @@
+[centos]
+172.31.42.60 ansible_user=centos
